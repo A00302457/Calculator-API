@@ -5,28 +5,30 @@ namespace MyApp.Namespace
     [Route("[controller]/[action]")]
     [ApiController]
     public class Calculator : Controller
-    {
+    {   [HttpGet]
         public string Add(decimal number1 = 5, decimal number2 = 2)
         {
-            return $"The Addition of {number1} and {number2} is = {number1 + number2}";
+            return $"Hello Reader.\nThe Addition of {number1} and {number2} is = {number1 + number2}";
         }  
+        [HttpGet]
          public string Subtract(decimal number1 = 5, decimal number2 = 2)
         {
-            return $"The Subtraction of {number1} and {number2} is = {number1 - number2}";
+            return $"Hello Reader.\nThe Subtraction of {number1} and {number2} is = {number1 - number2}";
         }   
-
+        [HttpGet]
         public string Multiply(decimal number1 = 5, decimal number2 = 2)
         {
-            return $"The Multiplication of {number1} and {number2} is = {number1 * number2}";
-        }   
-
+            return $"Hello Reader.\nThe Multiplication of {number1} and {number2} is = {number1 * number2}";
+        } 
+        [HttpGet]
         public string Divide(decimal number1 = 5, decimal number2 = 2)
         {
-            return $"The Division of {number1} and {number2} is = {number1 / number2}";
+            return $"Hello Reader.\nThe Division of {number1} and {number2} is = {number1 / number2}";
         } 
+        [HttpGet]
          public string Modulo(decimal number1 = 5, decimal number2 = 2)
         {
-            return $"The Remainder of {number1} and {number2} is = {number1 % number2}";
+            return $"Hello Reader.\nThe Remainder of {number1} and {number2} is = {number1 % number2}";
         }   
 
 
