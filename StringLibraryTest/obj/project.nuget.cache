@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HuqzaRzN/BlCSM6pJb0IJ9H8kG1MYC8SkfzpLEiZQxNWGkRVGJgs17pByzGZvHsygWOfuYLxl26giT4swxI4Ig==",
+  "dgSpecHash": "pROcwWVEs+6gC1uhGV11sbUSLa1KGcU3CUmpMN0O0rqmKza5W1TC6nVBFz4QFohg6kikFGrRkX+oDIjgBUV+Ww==",
   "success": true,
   "projectFilePath": "/workspaces/Calculator-API/StringLibraryTest/StringLibraryTest.csproj",
   "expectedPackageFiles": [

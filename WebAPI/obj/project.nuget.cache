@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+IeiZqEw8WcxrrIKNBiZc74swzjT7nWA4Z28DQTl9VvJxZ+fJQVV/Htm7DSXFEzmEUa2UTOEDSQiN+4TaFYWIg==",
+  "dgSpecHash": "v9EVovGQQou8A2fmFh6zbHKqN/9NGWtkfSmPR5+btoHUNZ2oc+R7tbyDxsQ+ZqvStS3SgUXFSwHpTQ04Sr7fYA==",
   "success": true,
   "projectFilePath": "/workspaces/Calculator-API/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [

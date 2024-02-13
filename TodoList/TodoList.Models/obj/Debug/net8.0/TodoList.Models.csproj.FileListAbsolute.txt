@@ -1,0 +1,13 @@
+/workspaces/Calculator-API/TodoList/TodoList.Models/bin/Debug/net8.0/TodoList.Models.deps.json
+/workspaces/Calculator-API/TodoList/TodoList.Models/bin/Debug/net8.0/TodoList.Models.dll
+/workspaces/Calculator-API/TodoList/TodoList.Models/bin/Debug/net8.0/TodoList.Models.pdb
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.AssemblyInfoInputs.cache
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.AssemblyInfo.cs
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.csproj.CoreCompileInputs.cache
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.sourcelink.json
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.dll
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/refint/TodoList.Models.dll
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.pdb
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/ref/TodoList.Models.dll
+/workspaces/Calculator-API/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.csproj.AssemblyReference.cache
