@@ -1,0 +1,12 @@
+/workspaces/Calculator-API/StringLibrary/bin/Debug/net8.0/StringLibrary.deps.json
+/workspaces/Calculator-API/StringLibrary/bin/Debug/net8.0/StringLibrary.dll
+/workspaces/Calculator-API/StringLibrary/bin/Debug/net8.0/StringLibrary.pdb
+/workspaces/Calculator-API/StringLibrary/obj/Debug/net8.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Calculator-API/StringLibrary/obj/Debug/net8.0/StringLibrary.AssemblyInfoInputs.cache
+/workspaces/Calculator-API/StringLibrary/obj/Debug/net8.0/StringLibrary.AssemblyInfo.cs
+/workspaces/Calculator-API/StringLibrary/obj/Debug/net8.0/StringLibrary.csproj.CoreCompileInputs.cache
+/workspaces/Calculator-API/StringLibrary/obj/Debug/net8.0/StringLibrary.sourcelink.json
+/workspaces/Calculator-API/StringLibrary/obj/Debug/net8.0/StringLibrary.dll
+/workspaces/Calculator-API/StringLibrary/obj/Debug/net8.0/refint/StringLibrary.dll
+/workspaces/Calculator-API/StringLibrary/obj/Debug/net8.0/StringLibrary.pdb
+/workspaces/Calculator-API/StringLibrary/obj/Debug/net8.0/ref/StringLibrary.dll
