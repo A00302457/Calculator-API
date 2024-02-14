@@ -1,5 +1,0 @@
-/workspaces/Calculator-API/TodoList/obj/Debug/net8.0/TodoList.GeneratedMSBuildEditorConfig.editorconfig
-/workspaces/Calculator-API/TodoList/obj/Debug/net8.0/TodoList.AssemblyInfoInputs.cache
-/workspaces/Calculator-API/TodoList/obj/Debug/net8.0/TodoList.AssemblyInfo.cs
-/workspaces/Calculator-API/TodoList/obj/Debug/net8.0/TodoList.csproj.CoreCompileInputs.cache
-/workspaces/Calculator-API/TodoList/obj/Debug/net8.0/TodoList.sourcelink.json
