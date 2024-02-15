@@ -6,6 +6,7 @@ public class BloggingContext : DbContext
 {
     public DbSet<Blog> Blogs { get; set; }
     public DbSet<Post> Posts { get; set; }
+    public DbSet<TestModel> Testmodels { get; set; }
 
     public string DbPath { get; }
 
@@ -13,7 +14,8 @@ public class BloggingContext : DbContext
     {
         var folder = Environment.SpecialFolder.LocalApplicationData;
         var path = Environment.GetFolderPath(folder);
-        DbPath = System.IO.Path.Join(path, "blogging.db");
+      DbPath = System.IO.Path.Join(path, "blogging.db");// comment this line
+        //  DbPath = "blogging.bd"; //add this line
     }
 
     // The following configures EF to create a Sqlite database file in the
@@ -35,7 +37,13 @@ public class Post
     public int PostId { get; set; }
     public string Title { get; set; }
     public string Content { get; set; }
+    public DateTime PublishDate { get; set; } = DateTime.Now;
 
     public int BlogId { get; set; }
     public Blog Blog { get; set; }
+}
+public class TestModel
+{
+    public Guid TestModelId { get; set; } = new Guid();
+    public Decimal Numbers { get; set; }
 }

@@ -127,3 +127,7 @@
 /workspaces/Calculator-API/TodoList/TodoListAPI/obj/Debug/net8.0/TodoListAPI.pdb
 /workspaces/Calculator-API/TodoList/TodoListAPI/obj/Debug/net8.0/TodoListAPI.genruntimeconfig.cache
 /workspaces/Calculator-API/TodoList/TodoListAPI/obj/Debug/net8.0/ref/TodoListAPI.dll
+/workspaces/Calculator-API/TodoList/TodoListAPI/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/workspaces/Calculator-API/TodoList/TodoListAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/workspaces/Calculator-API/TodoList/TodoListAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/workspaces/Calculator-API/TodoList/TodoListAPI/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
